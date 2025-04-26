@@ -1,6 +1,10 @@
 # Bizarre-Quirk
 You control a square character (that's Mr. Blocks) trapped in a maze. Your mission? Guide Mr. Blocks through the maze to reach the exit. Sounds straightforward, but here's the twist – The maze has Spike Balls! that spell instant game over if you touch them. Quick rundown of Mr. Blocks: 2D top-down view (think classic arcade style) Keyboard controls for moving Mr. Blocks Multiple levels, each tougher than the last Playable on PC and web browsersA chaotic dungeon adventure where strange power-ups grant unpredictable abilities, forcing you to adapt and survive in ever-changing, quirky ways!
 
+### Gameplay
+
+![Image](https://github.com/Imran1720/Mr_Blocks/blob/c21e99e7a4c31a8fe142552f2550cebdd8f80e78/Attachments/Mr.%20Blocks.gif)
+
 ### Screenshots:
 
 ![Image](https://github.com/Imran1720/Mr_Blocks/blob/d5537375a56e84356b08c947f4258f6ee872bd89/Attachments/Screenshot-1.png)
